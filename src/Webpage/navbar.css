@@ -1,0 +1,18 @@
+.Nav{
+    display: flex;
+    list-style-type: none;
+}
+
+.main1{
+    background-color: black;
+    padding: 15px;
+    color: white;
+}
+
+.hyperLink{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    margin: 20px;
+    
+}

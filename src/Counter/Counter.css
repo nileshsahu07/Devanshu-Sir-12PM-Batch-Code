@@ -1,0 +1,29 @@
+.counter{
+    width: 200px;
+    height: 200px;
+    background-color: darkcyan;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.myCounterbtn{
+    background-color: lime;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.content{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.myh1{
+    color: white;
+}

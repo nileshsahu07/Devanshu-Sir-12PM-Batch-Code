@@ -1,0 +1,41 @@
+body{
+    background-color: lightgray;
+}
+.card{
+    width: 300px;
+    height: 615px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 20px;
+    /* box-shadow: 10px 10px 10px gray; */
+}
+
+.cardtitle{
+    text-align: center;
+    color: rgb(0, 230, 230);
+    text-shadow: 2px 2px 2px black;
+}
+
+.carddesc{
+    color: rgb(4, 104, 4);
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px 1px yellow;
+}
+
+.social {
+    display: flex;
+    list-style-type: none;
+}
+
+.social img{
+    width: 60px;
+}
+
+.myBtn{
+    border: none;
+    background-color: rgb(10, 10, 59);
+    color: white;
+    cursor: pointer;
+    padding: 10px 5px;
+}

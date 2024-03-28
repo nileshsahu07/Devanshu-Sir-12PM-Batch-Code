@@ -1,0 +1,13 @@
+.main{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.myFormbtn{
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
